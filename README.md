@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jiijin
-- 👀 I’m interested in netwoeking and programming
+- 👀 I’m interested in networking and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning python
 - 📫 contact me at jijinjith7034@gmail.com
